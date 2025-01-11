@@ -1,0 +1,63 @@
+
+
+.work-sans-normal {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+/* nav styes */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+
+.btn-primary{
+    color: #006A50;
+    font-weight: 0px 52px;
+    padding: 30px 15px;
+    border-radius: 5px;
+    border: none;
+    layout-grid: 10px;
+    color: #FF0000;
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 32;
+}
+
+
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 100px 200px 50px;
+    display: flex;
+    border-radius: 10px;
+    background-color: #C6E4D6;
+}
+
+.banner-content{
+    margin-left: 80px;
+}
+
+.banner-title{
+    color: #0e0e0e85;
+    font-size: 20px;
+}
+.banner-tropics{
+    color: #0E0E0E;
+    font-size: 50px;
+    max-width: 600px;
+    
+}
+.ex-bd{
+    background-color: #006A50;
+    
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
